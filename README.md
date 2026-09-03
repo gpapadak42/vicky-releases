@@ -1,5 +1,7 @@
 # Vicky — Releases
 
+*Vicky — your AI assistant. Every model. Every action, approved by you.*
+
 Built installer releases for [Vicky](https://github.com/gpapadak42/vicky), a
 personal virtual assistant. This repo intentionally contains no source code —
 just built release artifacts, published here (not on the private source repo)
